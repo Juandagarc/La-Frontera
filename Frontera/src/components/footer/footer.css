@@ -8,9 +8,12 @@ footer {
     height: 60px;
     padding-bottom: 10%;
     /* Para que el footer siempre aparezca al final del sitio */
-    position: absolute;
+    position: relative;
     bottom: 0;
 
+}
+h3 {
+  color: white;
 }
 
   .social-icons {

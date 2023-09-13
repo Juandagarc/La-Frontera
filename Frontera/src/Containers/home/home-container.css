@@ -1,10 +1,10 @@
 .home{
-    position: fixed;
+    position: relative;
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url(../assets/gotham-streets.jpeg);
+    background-image: url(../../assets/gotham-streets.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -31,7 +31,7 @@
     padding: 5%;
     border-radius: 2em;
 }
-.list-container.button{
+.button{
     border-radius: 2em;
     /* pasar a mayusculas */
     text-transform: uppercase;
@@ -45,7 +45,9 @@
     margin: 10% auto;
     padding: 3% 10%;
     border: none;
+    text-decoration: none ;
 }
+
 .list-container.text{
     text-align: center;
     color: #ffffff;

@@ -1,0 +1,18 @@
+.Mini-navbar {
+    padding: 5%;
+    background-color: rgb(34, 34, 34);
+}
+.material-symbols-outlined{
+    color: white;
+}
+.carta {
+    background-color: black;
+}
+.carta-title{
+    padding: 5%;
+    color: white;
+     /*Pasar a mayusculas*/
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+}

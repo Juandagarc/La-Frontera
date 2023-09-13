@@ -3,7 +3,7 @@ import "./footer.css";
 const Footer = () => {
     return (
         <footer>
-            <h3>Conocenos mas:</h3>
+            <h3 >Conócenos más:</h3>
             <br />
             <ul className="social-icons">
                 {/* Instagram */}
