@@ -1,0 +1,63 @@
+footer {
+    background-color: rgb(34, 34, 34);
+    padding: 20px 0;
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    width: 100%;
+    height: 60px;
+    padding-bottom: 10%;
+    /* Para que el footer siempre aparezca al final del sitio */
+    position: absolute;
+    bottom: 0;
+
+}
+
+  .social-icons {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .social-icons li {
+    display: inline-block;
+  }
+  
+  .social-icon {
+    display: block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 50%;
+    margin: 0 10px;
+    color: white;
+    background-color: #fff;
+    border: 3px solid #4f4747;
+    transition: 0.5s;
+  }
+  
+  .social-icon:hover {
+    background-color: #333;
+    color: #000;
+    transform: rotateY(360deg);
+  }
+  
+  .social-icon.instagram {
+    background: #f09433; 
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+  }
+  
+  .social-icon.whatsapp {
+    background-color: rgb(1, 179, 4);
+  }
+  
+  .social-icon.facebook {
+    background-color: #0077b5;
+  }
+
+  

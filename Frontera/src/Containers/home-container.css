@@ -1,0 +1,53 @@
+.home{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: url(../assets/gotham-streets.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img-logo{
+    display: block;
+    width: 70vw;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.main-title{
+    text-align: center;
+    font-size: 2.5rem;
+    padding: 5%;
+    margin: 0 auto;
+    background-color: rgb(34, 34, 34);
+    color: #ffffff;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+.list-container{
+    margin: 5%;
+    background-color: rgb(34, 34, 34);
+    padding: 5%;
+    border-radius: 2em;
+}
+.list-container.button{
+    border-radius: 2em;
+    /* pasar a mayusculas */
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color: black;
+    background-color: white;
+    margin: 10% auto;
+    padding: 3% 10%;
+    border: none;
+}
+.list-container.text{
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+}
