@@ -16,3 +16,24 @@
     font-weight: 700;
     text-align: center;
 }
+.carta-text{
+    padding: 5%;
+    color: white;
+}
+.opciones{
+    background-color: rgb(34, 34, 34);
+    margin: 5%;
+}
+.carta-text.cursive{
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; pero italica */
+    font-style: italic;
+}
+.carta-text.description{
+    font-family: sans-serif;
+    color: gray;
+}
+.product-image{
+    width: 80vw;
+    margin: 5%;
+    border: 1px solid rgba(255, 255, 255, 0.381);
+}
