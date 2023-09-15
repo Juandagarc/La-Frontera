@@ -2,4 +2,8 @@
 
 ## Vista pantalla principal:
 
-![Alt text](<Captura de Pantalla 2023-09-12 a la(s) 10.48.53 p.m..png>)
+![Alt text](<capturas/Version 1.0/Captura de Pantalla 2023-09-14 a la(s) 8.30.07 p.m..png>)
+
+![Alt text](<capturas/Version 1.0/Captura de Pantalla 2023-09-14 a la(s) 8.30.11 p.m..png>)
+
+![Alt text](<capturas/Version 1.0/Captura de Pantalla 2023-09-14 a la(s) 8.30.19 p.m..png>)
